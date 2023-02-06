@@ -1,0 +1,23 @@
+{
+  "name": "bot-watsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Italo-hgs/bot-watsapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Italo-hgs/bot-watsapp/issues"
+  },
+  "homepage": "https://github.com/Italo-hgs/bot-watsapp#readme",
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  }
+}
